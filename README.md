@@ -5,4 +5,4 @@
 
 | Challenges               |              Solutions               |                   Battle Link                   |
 | ------------------------ | :----------------------------------: | :---------------------------------------------: |
-| Battle #27 - Relative | [See](Battles/Battle%20%2327%20-%20Relative) | [Go to battle](https://cssbattle.dev/battle/27)  |
+| Battle #27 - Relative | [See](Battles/Battle #27 - Relative) | [Go to battle](https://cssbattle.dev/battle/27)  |
