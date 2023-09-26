@@ -1,6 +1,6 @@
 # 26/09/2023 Daily Target
 
-## [Simply Square](https://cssbattle.dev/play/V3vWfebqJhnFRP9se5yj)
+## [View the target on CSSBattle.dev](https://cssbattle.dev/play/V3vWfebqJhnFRP9se5yj)
 
 ![Alt text](img/target_IQNBkvc.png?raw=true "Target 26/09/2023")
 
