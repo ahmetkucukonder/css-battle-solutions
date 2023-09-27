@@ -8,14 +8,13 @@
 <p>
   <style>
     * {
-      background: #8d1c24;
+      background: radial-gradient(circle, #ec9140 30px, #8d1c24 0);
     }
     p {
       -webkit-box-reflect: right 140px;
     }
     p,
-    p:after,
-    p:before {
+    p:after {
       position: fixed;
       content: "";
       width: 40;
@@ -29,13 +28,6 @@
       width: 90;
       top: 130;
       left: 0;
-    }
-    p:before {
-      border-radius: 50%;
-      width: 60;
-      height: 60;
-      top: 120;
-      left: 170;
     }
   </style>
 ```
