@@ -1,4 +1,4 @@
-# 27/09/2023 Daily Target
+# 28/09/2023 Daily Target
 
 ## [View the target on CSSBattle.dev](https://cssbattle.dev/play/UzsDqnxtoQ5nQy2l2aiO)
 
