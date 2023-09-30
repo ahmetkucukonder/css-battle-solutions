@@ -26,7 +26,7 @@
       background: #b17036;
       top: -1;
       left: 230;
-      border: solid 50px#FEFAE3;
+      border: solid 53q#FEFAE3;
     }
     [i]:after {
       top: 125;
