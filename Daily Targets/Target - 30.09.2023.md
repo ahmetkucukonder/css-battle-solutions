@@ -7,9 +7,10 @@
 ```html
 <p><p i>
   <style>
-    * {
+    *,:after{
       background: #fefae3;
       position: fixed;
+      content: "";
     }
     p {
       width: 280;
@@ -20,8 +21,6 @@
     }
     [i],
     [i]:after {
-      content: "";
-      position: fixed;
       width: 60;
       height: 60;
       background: #b17036;
