@@ -11,8 +11,7 @@
       background: #fefae3;
       margin: 0;
     }
-    [i],
-    [j] {
+    p{
       position: fixed;
       width: 150;
       height: 50;
