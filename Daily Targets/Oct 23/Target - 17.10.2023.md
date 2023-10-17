@@ -13,9 +13,8 @@
 
     p {
       margin: 50 92;
-      width: 200;
       height: 200;
-      background: linear-gradient(45deg, #ed6a9d 50%, 50%, #050044 100%);
+      background: linear-gradient(45deg, #ed6a9d 50%, 50%, #050044);
       background-size: 106Q 106Q;
     }
   </style>
