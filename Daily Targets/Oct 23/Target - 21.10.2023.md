@@ -8,7 +8,6 @@
 <style>
   * {
     position: fixed;
-    margin: 0;
     width: 100%;
     height: 100%;
     background: radial-gradient(
@@ -18,8 +17,8 @@
     );
   }
   * + * {
-    top: 100;
-    left: 150;
+    top: 92;
+    left: 142;
     width: 100;
     height: 100;
     background: radial-gradient(circle at 50px 250px, #8092d0 200px, #fff 0);
