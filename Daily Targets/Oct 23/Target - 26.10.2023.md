@@ -28,7 +28,6 @@
     height:100;
     top:0;
     left:50;
-   background:#892323;
   }
   </style>
 ```
